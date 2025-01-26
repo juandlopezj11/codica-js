@@ -1,0 +1,20 @@
+{
+  "name": "codica",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Mi primer proyecto en Códica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandlopezj11/codica-js.git"
+  },
+  "author": "JuanLopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juandlopezj11/codica-js/issues"
+  },
+  "homepage": "https://github.com/juandlopezj11/codica-js#readme"
+}
