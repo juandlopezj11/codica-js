@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/juandlopezj11/codica-js/issues"
   },
-  "homepage": "https://github.com/juandlopezj11/codica-js#readme"
+  "homepage": "https://github.com/juandlopezj11/codica-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^19.0.0",
+    "tree": "^0.1.3"
+  }
 }
